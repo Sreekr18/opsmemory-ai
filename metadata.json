@@ -1,0 +1,6 @@
+{
+  "name": "OpsMemory AI",
+  "description": "Persistent-Memory Incident Response Platform for engineering and operations teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
